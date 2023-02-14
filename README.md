@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Programming**
 
-- 📫 How to reach me **codewithdikshant@gmail.com**
+- 📫 How to reach me **dikshantsharmajpr@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
