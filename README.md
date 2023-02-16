@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Android App**
 
-- 🌱 I’m currently learning **React Native**...
+- 🌱 I’m currently learning **React Native**..
 
 - 💬 Ask me about **Programming**
 
